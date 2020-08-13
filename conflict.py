@@ -1,1 +1,1 @@
-This text just for testing as well
+This text just for testing
