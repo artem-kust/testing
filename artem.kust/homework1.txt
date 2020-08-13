@@ -1,4 +1,4 @@
-1. Create merge conflict and resolve it
+1. Create merge conflict and resolve it.
 
 git branch ConflictBranch
 git checkout ConflictBranch
