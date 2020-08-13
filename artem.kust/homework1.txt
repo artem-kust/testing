@@ -24,7 +24,7 @@ git add conflict.py
 git commit -m "The issue has been fixed"
 git merge ConflictBranch
 
-2. Create branch, push it to remote with different name, delete it from remote only.
+2. Create branch, push it to remote with different name, delete it from remote only..
 
 git checkout -b BranchForTesting
 git push origin BranchForTesting:BranchForTesting2
